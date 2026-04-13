@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Mechanics, Sichuan University (Nature Index 2025, No. 11 among global academic institutions), 2024-present
 * B.S. in Civil Engineering, China University of Geosciences (Beijing), 2020-2024
 
