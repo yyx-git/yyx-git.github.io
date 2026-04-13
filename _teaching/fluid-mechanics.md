@@ -3,8 +3,8 @@ title: "Teaching Assistant for Fluid Mechanics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/fluid-mechanics
-venue: "Sichuan University, "
-date: 2025-01-01
+venue: "Sichuan University"
+date: 09/2025-01/2026
 location: "Chengdu, China"
 ---
 
