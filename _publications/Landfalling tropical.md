@@ -2,7 +2,7 @@
 title: "Landfalling tropical cyclones perturb Earth's rotation"
 collection: publications
 category: manuscripts
-permalink: /publication/Landfalling tropical.md
+permalink: /publication/Landfalling tropical
 #excerpt: 'This paper is about '
 date: 2026-4-13
 venue: "In preparation"
