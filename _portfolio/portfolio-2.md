@@ -1,6 +1,6 @@
 ---
 title: "Reinforcement Learning for Pre-Landfall Typhoon Intensity Control"
-excerpt: "This is a highly ambitious and challenging project. We aim to leverage cutting-edge techniques, such as reinforcement learning, to pursue our goal: exploring how to weaken typhoon intensity at the lowest possible cost by reducing sea surface temperature (SST) through mixing colder subsurface water with warmer surface water.<br/><img src='/images/CM1.png'>.<br/><img src='/images/CM1.png'>"
+excerpt: "This is a highly ambitious and challenging project. We aim to leverage cutting-edge techniques, such as reinforcement learning, to pursue our goal: exploring how to weaken typhoon intensity at the lowest possible cost by reducing sea surface temperature (SST) through mixing colder subsurface water with warmer surface water.<br/><img src='/images/Cm1.png'>.<br/><img src='/images/CM12.png'>.<br/><img src='/images/CM1&RL1.png'>"
 collection: portfolio
 ---
 
