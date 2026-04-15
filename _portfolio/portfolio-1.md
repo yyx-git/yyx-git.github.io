@@ -1,6 +1,6 @@
 ---
 title: "Reinforcement Learning for Pre-Landfall Typhoon Intensity Control"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/CM1&RL1.png'>"
+excerpt: "This is a highly ambitious and challenging project. Our goal is to explore whether cutting-edge techniques, such as reinforcement learning, can be used to reduce typhoon intensity at minimal cost by modulating sea surface temperature (SST).<br/><img src='/images/CM1&RL1.png'>"
 collection: portfolio
 ---
 
