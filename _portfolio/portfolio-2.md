@@ -1,6 +1,6 @@
 ---
 title: "Landfalling tropical cyclones perturb Earth‘s rotation"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/Landfall1.png'>"
+excerpt: "This project explores how landfalling tropical cyclones affect Earth’s rotation. We show that as a cyclone moves across land, surface friction enables a direct exchange of angular momentum with the solid Earth, leading to short-term day-to-day rotational variations. Notably, the magnitude of this effect is comparable to that associated with major earthquakes. <br/><img src='/images/Landfall1.png'>"
 collection: portfolio
 ---
 
