@@ -1,6 +1,6 @@
 ---
 title: "Reinforcement Learning for Pre-Landfall Typhoon Intensity Control"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/CM1&RL1.png'>"
 collection: portfolio
 ---
 
