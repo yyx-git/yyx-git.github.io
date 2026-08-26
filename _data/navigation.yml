@@ -11,6 +11,9 @@ main:
   - title: "Research"
     url: /research/
     
+  - title: "Research Experience"
+    url: /experience/
+    
   - title: "Publications"
     url: /publications/
 
