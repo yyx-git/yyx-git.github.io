@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yaxuan Yang"  # "Your Name / Site Title"
 title_separator          : "-"
 name                     : "Yaxuan Yang"
-description              : "Personal academic website"  # Update this with a general description of your site, this is the default if not overridden by a page
+description              : "Personal academic website of Yaxuan Yang, focusing on tropical cyclone dynamics,  air–sea-land interaction, and reinforcement learning."  # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://yyx-git.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Yaxuan Yang"
   pronouns         : "she/her"  
-  bio              : "Master in Mechanics"
+  bio              : "Master’s Student | Tropical Cyclone & Reinforcement Learning"
   location         : "Chengdu, China"
   employer         : "Sichuan University"
   uri              : # URL
