@@ -53,7 +53,14 @@
       {% endif %}
 
     {% elsif post.collection == 'experience' %}
-
+    
+      {% if post.venue %}
+        <p>
+          <i>{{ post.venue }}</i>
+          {% if post.location %} · {{ post.location }}{% endif %}
+        </p>
+      {% endif %}
+    
       {% if post.date_text %}
         <p class="page__date">
           <strong>
