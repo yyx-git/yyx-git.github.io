@@ -1,11 +1,15 @@
 ---
 title: "Landfalling tropical cyclones perturb Earth‘s rotation"
-excerpt: "This project explores how landfalling tropical cyclones affect Earth’s rotation. We show that as a cyclone moves across land, surface friction enables a direct exchange of angular momentum with the solid Earth, leading to short-term day-to-day rotational variations. Notably, the magnitude of this effect is comparable to that associated with major earthquakes. <br/><img src='/images/Landfall1.png'>"
+excerpt: "This project investigates how landfalling tropical cyclones perturb Earth’s rotation. We find that individual storms can induce microsecond-scale changes in length of day (ΔLOD), comparable in magnitude to those associated with major earthquakes. <br/><img src='/images/Landfall1.png'>"
 collection: portfolio
 ---
 
-When I read that a large earthquake can alter Earth's rotation, I found myself wondering: could a typhoon do the same? It seemed unlikely — a storm, however powerful, is not a seismic rupture. But initial intuition is not always reasonable, and I decided to pursue it seriously. I approached the problem from three directions: a simplified theoretical model built on angular momentum budgets, a numerical simulation of typhoon landfall in the cloud-resolving model CM1, and an analysis of observational data from real typhoon events. All three converged on the same answer: a major typhoon can produce a perturbation to Earth's rotation that exceeds that of a large earthquake. I did not expect that result, and I have not stopped thinking about it since. 
+When I read that a large earthquake can alter Earth's rotation, I found myself wondering: could a typhoon do the same? It seemed unlikely — a storm, however powerful, is not a seismic rupture. But initial intuition is not always reasonable, and I decided to pursue it seriously. To investigate this, I combined an angular-momentum framework with reanalysis of historical tropical cyclones and idealized numerical simulations of landfall. This allowed me to quantify storm-induced changes in length of day (ΔLOD) and explore what controls both their magnitude and sign.
+
+We compared the ΔLOD associated with representative landfalling tropical cyclones with published estimates for major earthquakes. The cyclone-induced signals also reach the microsecond scale and, in several cases, are comparable to or larger than those associated with major earthquakes. Across the tropical cyclone cases, ΔLOD can be either positive or negative, showing that individual storms can produce either a transient lengthening or shortening of the day.
 <img src="/images/typhoon_earth_1.png" alt="results">
+Comparison of storm-induced ΔLOD with published estimates for representative major earthquakes. Tropical cyclones produce rotational perturbations on the same microsecond scale, with both positive and negative responses.
 
-
+We then used idealized numerical simulations to systematically vary the direction of landfall while keeping the other model settings unchanged. ΔLOD varies strongly and systematically with landfall angle, with different directions producing opposite signs. This result shows that the sign of the rotational perturbation is closely linked to how the cyclone crosses the coastline, rather than being determined by storm intensity alone.
 <img src="/images/typhoon_earth_2.png" alt="results">
+Dependence of ΔLOD on landfall direction in idealized simulations. The sign and magnitude of the rotational response vary systematically with landfall angle, with approximately opposite directions producing opposite ΔLOD responses.
