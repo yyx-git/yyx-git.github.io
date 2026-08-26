@@ -10,7 +10,8 @@ location: "Fukuoka, Japan"
 
 ### Poster presentation at AOGS 2026
 
-<img src="/images/poster_yangyaxuan.png" alt="Poster presentation at AOGS 2026" width="48%">
-<img src="/images/Best_Student_Poster2026.png" alt="Award certificate at AOGS 2026" width="80%">
+<img src="/images/poster_yangyaxuan.png" alt="Poster presentation at AOGS 2026" width="60%">
+
+<img src="/images/Best_Student_Poster2026.png" alt="Award certificate at AOGS 2026" width="90%">
 
 *Presented at the AOGS 2026 Annual Meeting, Fukuoka, Japan. This work received a Best Student Poster Award.*
