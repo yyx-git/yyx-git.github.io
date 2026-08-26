@@ -14,6 +14,6 @@ Comparison of storm-induced ΔLOD with published estimates for representative ma
 
 We then used idealized numerical simulations to systematically vary the direction of landfall while keeping the other model settings unchanged. ΔLOD varies strongly and systematically with landfall angle, with different directions producing opposite signs. This result shows that the sign of the rotational perturbation is closely linked to how the cyclone crosses the coastline, rather than being determined by storm intensity alone.
 
-<img src="/images/typhoon_earth_2.png" alt="results" width="70%">
+<img src="/images/typhoon_earth_2.png" alt="results" width="50%">
 
 Dependence of ΔLOD on landfall direction in idealized simulations. The sign and magnitude of the rotational response vary systematically with landfall angle, with approximately opposite directions producing opposite ΔLOD responses.
