@@ -20,7 +20,7 @@ Research Interests
 * Reinforcement learning for Typhoon Control
 * Ocean–atmosphere interaction and landfall processes
 
-Research Experiences
+Research Projects
 ======
 * Reinforcement Learning for Pre-Landfall Typhoon Intensity Control, Sichuan University    12/2025-present
   * Investigating typhoon intensity control by modifying sea surface temperature (SST) through numerical simulations.
@@ -30,6 +30,11 @@ Research Experiences
 * Landfalling tropical cyclones perturb Earth‘s rotation, Sichuan University    10/2024-present
   * Studied how landfalling tropical cyclones influence Earth’s rotation through angular momentum exchange.
   * Calculated frictional torque between cyclones and the land surface to reveal the underlying mechanism.
+ 
+Research Experience
+======
+* Research Intern, Fluid Mechanics Unit     10/2026-03/2027
+Okinawa Institute of Science and Technology (OIST) · Okinawa, Japan
   
 Skills
 ======
