@@ -4,7 +4,7 @@ title: "Impact of Tropical Cyclones on Earth's Rotation"
 type: "Poster"
 permalink: /presentations/presentation_2026_8
 venue: "Fukuoka International Congress Centre"
-date: 2026-08-02
+date: 2026-08-05
 location: "Fukuoka, Japan"
 ---
 
