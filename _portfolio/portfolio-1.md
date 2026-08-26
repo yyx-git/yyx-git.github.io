@@ -7,9 +7,9 @@ collection: portfolio
 When I read that a large earthquake can alter Earth's rotation, I found myself wondering: could a typhoon do the same? It seemed unlikely — a storm, however powerful, is not a seismic rupture. But initial intuition is not always reasonable, and I decided to pursue it seriously. To investigate this, I combined an angular-momentum framework with reanalysis of historical tropical cyclones and idealized numerical simulations of landfall. This allowed me to quantify storm-induced changes in length of day (ΔLOD) and explore what controls both their magnitude and sign.
 
 We compared the ΔLOD associated with representative landfalling tropical cyclones with published estimates for major earthquakes. The cyclone-induced signals also reach the microsecond scale and, in several cases, are comparable to or larger than those associated with major earthquakes. Across the tropical cyclone cases, ΔLOD can be either positive or negative, showing that individual storms can produce either a transient lengthening or shortening of the day.
-<img src="/images/typhoon_earth_1.png" alt="results">
+<img src="/images/typhoon_earth_1.png" alt="results" width="50%">
 Comparison of storm-induced ΔLOD with published estimates for representative major earthquakes. Tropical cyclones produce rotational perturbations on the same microsecond scale, with both positive and negative responses.
 
 We then used idealized numerical simulations to systematically vary the direction of landfall while keeping the other model settings unchanged. ΔLOD varies strongly and systematically with landfall angle, with different directions producing opposite signs. This result shows that the sign of the rotational perturbation is closely linked to how the cyclone crosses the coastline, rather than being determined by storm intensity alone.
-<img src="/images/typhoon_earth_2.png" alt="results">
+<img src="/images/typhoon_earth_2.png" alt="results" width="50%">
 Dependence of ΔLOD on landfall direction in idealized simulations. The sign and magnitude of the rotational response vary systematically with landfall angle, with approximately opposite directions producing opposite ΔLOD responses.
