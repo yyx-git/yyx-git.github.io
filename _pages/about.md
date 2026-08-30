@@ -15,16 +15,15 @@ My research lies at the intersection of tropical cyclone dynamics, air–sea–l
 I am currently working on two related topics centered on landfalling tropical cyclones:
 
 - **Landfalling tropical cyclones perturb Earth's rotation**
-- **Reinforcement learning for pre-landfall typhoon intensity control**
+- **Reinforcement learning for pre-landfall tropical cyclone intensity modification**
 
 As a researcher, I am drawn to questions that seem counterintuitive at first but turn out to reveal something physically meaningful. I value curiosity and the courage to break new ground. I care deeply about physical understanding, yet I try to stay open to the unknown. Above all, I hope my research can be vivid and engaging — offering people a fresh way of seeing tropical cyclones, and contributing to both fundamental science and disaster mitigation.
 
 ### Research interests
 
 - Tropical cyclone dynamics and landfall processes
-- Air–sea–land interaction
-- Earth's rotation and atmosphere–solid Earth coupling
-- Reinforcement learning for tropical cyclone control
+- Surface–Atmosphere Interactions and Storm-Resolving Numerical Modelling
+- Machine Learning for Atmospheric Science
 
 ### Methods
 
